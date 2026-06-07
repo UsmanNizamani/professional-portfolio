@@ -63,7 +63,7 @@
         <div class="md:w-2/5 flex justify-center mt-12 md:mt-0">
           <div class="relative group">
             <div class="absolute -inset-1 bg-gradient-to-r from-indigo-600 to-purple-600 rounded-full blur opacity-25 group-hover:opacity-50 transition duration-1000 group-hover:duration-200"></div>
-            <img class="relative rounded-full h-72 w-72 object-cover border-4 border-white dark:border-gray-800 shadow-2xl" src="/src/assets/usman.png" alt="Muhammad Usman" />
+            <img class="relative rounded-full h-72 w-72 object-cover border-4 border-white dark:border-gray-800 shadow-2xl" src="/usman.png" alt="Muhammad Usman" />
           </div>
         </div>
         
@@ -74,14 +74,14 @@
 
 <script setup>
 const bgImages = [
-  '/src/assets/Hero-grid/AC-GUI.png',
-  '/src/assets/Hero-grid/Huawei-firewall-dashboard.png',
-  '/src/assets/Hero-grid/ghidra.png',
-  '/src/assets/Hero-grid/tryhackme-dashboard.png',
-  '/src/assets/Hero-grid/wazuh.png',
-  '/src/assets/Hero-grid/burpsuite.png',
-  '/src/assets/Hero-grid/Huawei-firewall-login-page.png',
-  '/src/assets/Hero-grid/pfsense-login-page.png',
-  '/src/assets/Hero-grid/Solarwinds-ssh-connections.png'
+  '/Hero-grid/AC-GUI.png',
+  '/Hero-grid/Huawei-firewall-dashboard.png',
+  '/Hero-grid/ghidra.png',
+  '/Hero-grid/tryhackme-dashboard.png',
+  '/Hero-grid/wazuh.png',
+  '/Hero-grid/burpsuite.png',
+  '/Hero-grid/Huawei-firewall-login-page.png',
+  '/Hero-grid/pfsense-login-page.png',
+  '/Hero-grid/Solarwinds-ssh-connections.png'
 ]
 </script>
