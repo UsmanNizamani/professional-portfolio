@@ -56,10 +56,10 @@ const getImageUrl = (name) => {
 }
 
 const logoFiles = [
-  'skillsLogo/Huawei-logo.png', 'skillsLogo/Cisco-logo.png', 'skillsLogo/wireshark-logo.png', 'skillsLogo/Kali-linux.png', 
-  'skillsLogo/burpsuite-logo.png', 'skillsLogo/splunk-logo.png', 'skillsLogo/wazuh-logo.png', 'skillsLogo/gns3-logo.png',
-  'skillsLogo/linux.webp', 'skillsLogo/docker.webp', 'skillsLogo/git.webp', 'skillsLogo/putty-logo.png',
-  'skillsLogo/vmware-logo.png', 'skillsLogo/virtual-box-logo.png', 'skillsLogo/pt.webp'
+  'skillsLogo/Huawei-logo.webp', 'skillsLogo/Cisco-logo.webp', 'skillsLogo/wireshark-logo.webp', 'skillsLogo/Kali-linux.webp', 
+  'skillsLogo/burpsuite-logo.webp', 'skillsLogo/splunk-logo.webp', 'skillsLogo/wazuh-logo.webp', 'skillsLogo/gns3-logo.webp',
+  'skillsLogo/linux.webp', 'skillsLogo/docker.webp', 'skillsLogo/git.webp', 'skillsLogo/putty-logo.webp',
+  'skillsLogo/vmware-logo.webp', 'skillsLogo/virtual-box-logo.webp', 'skillsLogo/pt.webp'
 ]
 const skillLogos = logoFiles.map(getImageUrl)
 const duplicatedLogos = [...skillLogos, ...skillLogos, ...skillLogos]

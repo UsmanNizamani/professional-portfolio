@@ -74,14 +74,14 @@
 
 <script setup>
 const bgImages = [
-  '/Hero-grid/AC-GUI.png',
-  '/Hero-grid/Huawei-firewall-dashboard.png',
-  '/Hero-grid/ghidra.png',
-  '/Hero-grid/tryhackme-dashboard.png',
-  '/Hero-grid/wazuh.png',
-  '/Hero-grid/burpsuite.png',
-  '/Hero-grid/Huawei-firewall-login-page.png',
-  '/Hero-grid/pfsense-login-page.png',
-  '/Hero-grid/Solarwinds-ssh-connections.png'
+  '/Hero-grid/AC-GUI.webp',
+  '/Hero-grid/Huawei-firewall-dashboard.webp',
+  '/Hero-grid/ghidra.webp',
+  '/Hero-grid/tryhackme-dashboard.webp',
+  '/Hero-grid/wazuh.webp',
+  '/Hero-grid/burpsuite.webp',
+  '/Hero-grid/Huawei-firewall-login-page.webp',
+  '/Hero-grid/pfsense-login-page.webp',
+  '/Hero-grid/Solarwinds-ssh-connections.webp'
 ]
 </script>

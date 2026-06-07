@@ -116,25 +116,25 @@ const certifications = [
   {
     title: 'Certified Network Security Practitioner (CNSP)',
     issuer: 'SecOps Group',
-    badge: '/src/assets/portfolio/cnsp-badge.png',
+    badge: '/portfolio/cnsp-badge.png',
     link: '/MuhammadUsman-CNSP.pdf'
   },
   {
     title: 'HCIA-Datacom',
     issuer: 'Huawei',
-    badge: '/src/assets/portfolio/hcia-badge.webp',
+    badge: '/portfolio/hcia-badge.webp',
     link: '/HCIA-Datacom.pdf'
   },
   {
     title: 'Google Cybersecurity Professional',
     issuer: 'Google / Coursera',
-    badge: '/src/assets/portfolio/google-cybersec.png',
+    badge: '/portfolio/google-cybersec.png',
     link: '/GoogleCybersecurityProfessionalCertificateV2_Badge20260606-31-4bnra0.pdf'
   },
   {
     title: 'Google Prompting Essentials',
     issuer: 'Google',
-    badge: '/src/assets/portfolio/google-prompting.png',
+    badge: '/portfolio/google-prompting.png',
     link: '/GooglePromptingEssentials_Badge20260606-31-59ui2o.pdf'
   }
 ]

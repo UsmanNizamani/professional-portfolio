@@ -118,7 +118,7 @@ const experiences = [
     role: 'Cyber Security Competitor',
     company: 'NADRA Bug Bounty Challenge',
     duration: '2026',
-    image: '/src/assets/portfolio/Nadra-bug-bounty.jpg',
+    image: '/portfolio/Nadra-bug-bounty.webp',
     details: [
       'Participated in the national-level Bug Bounty Challenge organized by NADRA.',
       'Collaborated with a technical team to identify potential security vulnerabilities.',

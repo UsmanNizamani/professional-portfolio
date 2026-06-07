@@ -31,32 +31,32 @@
 const services = [
   {
     title: 'Network Architecture Design',
-    image: '/ServicesLogo/Network-Architecture-Design.png',
+    image: '/ServicesLogo/Network-Architecture-Design.webp',
     description: 'Designing robust and scalable enterprise network architectures using Huawei eNSP and Cisco Packet Tracer, ensuring high availability and performance.'
   },
   {
     title: 'Network Automation',
-    image: '/ServicesLogo/network-automation.png',
+    image: '/ServicesLogo/network-automation.webp',
     description: 'Developing Python-based automation frameworks to streamline network configurations, lab setups, and infrastructure management tasks.'
   },
   {
     title: 'Cyber Security Consulting',
-    image: '/ServicesLogo/cyber-security.png',
+    image: '/ServicesLogo/cyber-security.webp',
     description: 'Providing expert advice on network security protocols, firewall configurations, and vulnerability assessments to protect enterprise assets.'
   },
   {
     title: 'Incident Analysis & Reporting',
-    image: '/ServicesLogo/incident-responce.png',
+    image: '/ServicesLogo/incident-responce.webp',
     description: 'Systematically documenting and analyzing cybersecurity incidents to understand attack vectors and develop effective mitigation strategies.'
   },
   {
     title: 'Linux Systems Administration',
-    image: '/ServicesLogo/linux-system-admin.png',
+    image: '/ServicesLogo/linux-system-admin.webp',
     description: 'Managing and securing Linux-based environments, providing foundational support for network services and security tools.'
   },
   {
     title: 'Lab Environment Design',
-    image: '/ServicesLogo/Lab-enviroment.png',
+    image: '/ServicesLogo/Lab-enviroment.webp',
     description: 'Creating comprehensive network lab environments for educational and testing purposes, specifically tailored for Huawei eNSP platforms.'
   }
 ];

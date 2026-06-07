@@ -192,9 +192,9 @@ const projects = [
     detailedDescription: 'This comprehensive lab demonstrates a production-grade architecture using Huawei Versatile Routing Platform (VRP). It simulates a large-scale enterprise environment where security and uptime are mission-critical. I implemented a three-tier hierarchical model in the Dubai HQ and a site-to-site IPSec VPN to securely bridge communications with the Karachi branch. High availability is achieved through VRRP at the gateway and HRP for firewall active-standby clustering.',
     techStack: ['Huawei eNSP', 'VRP', 'IPSec VPN', 'VRRP', 'HRP', 'OSPF', 'MSTP'],
     images: [
-      '/portfolio/secure-network.png',
-      '/portfolio/secure-network-2.png',
-      '/portfolio/secure-network-3.png'
+      '/portfolio/secure-network.webp',
+      '/portfolio/secure-network-2.webp',
+      '/portfolio/secure-network-3.webp'
     ],
     docLink: '/Secure-Enterprise-Network-Report.pdf',
     link: 'https://github.com/UsmanNizamani/secure-enterprise-network-ensp'
@@ -206,10 +206,10 @@ const projects = [
     detailedDescription: 'Built to automate the "10-Router Bootstrap" scenario, this framework leverages Python and Netmiko to manage enterprise-grade topologies. It features multi-threaded execution for near-instant connectivity checks and backups across dozens of devices. The framework also includes a custom regex-based auditing engine that validates configurations against security policies and generates professional HTML reports and per-device portals.',
     techStack: ['Python', 'Netmiko', 'Jinja2', 'IaC', 'Multi-threading', 'YAML', 'Regex'],
     images: [
-      '/portfolio/automation-framework.png',
-      '/portfolio/automation-framework-2.png',
-      '/portfolio/automation-framework-3.png',
-      '/portfolio/automation-framework-4.png'
+      '/portfolio/automation-framework.webp',
+      '/portfolio/automation-framework-2.webp',
+      '/portfolio/automation-framework-3.webp',
+      '/portfolio/automation-framework-4.webp'
     ],
     videoLink: 'https://www.linkedin.com/posts/muhammad-usman-b38949287_networkautomation-python-netmiko-ugcPost-7468009338410893332-yUqL/?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAEW6oxwBYcK0v29Gygqg0PO7F3EsitVZiJ8',
     link: 'https://github.com/UsmanNizamani/ensp-automation-framework'
@@ -221,9 +221,9 @@ const projects = [
     detailedDescription: 'This is my personal repository of 46 distinct hands-on networking labs. It serves as a documentation of my journey through the Huawei HCIA curriculum. The labs are organized into pillars: Fundamentals, Switching (VLANs, STP), Routing (Static, OSPF), Security (Firewalls, NAT, HRP), Network Services (DHCP, FTP), and WLAN. Each lab includes a topology file, full configurations, and implementation screenshots.',
     techStack: ['Huawei eNSP', 'Switching', 'Routing', 'Firewall', 'WLAN', 'NAT', 'HRP'],
     images: [
-      '/portfolio/ensp-heaven.png',
-      '/portfolio/ensp-heaven-2.png',
-      '/portfolio/ensp-heaven-3.png'
+      '/portfolio/ensp-heaven.webp',
+      '/portfolio/ensp-heaven-2.webp',
+      '/portfolio/ensp-heaven-3.webp'
     ],
     link: 'https://github.com/UsmanNizamani/eNSP-Heaven'
   },
@@ -234,7 +234,7 @@ const projects = [
     detailedDescription: 'These write-ups document the process of solving levels 0 through 34 of the Bandit wargame. The focus is on demonstrating proficiency in Linux system administration and foundational cybersecurity concepts such as SSH tunneling, file permission exploits, base64 decoding, and password extraction from compressed files.',
     techStack: ['Linux', 'SSH', 'Cybersecurity', 'CTF', 'Documentation', 'Bash'],
     images: [
-      '/portfolio/bandit.png'
+      '/portfolio/bandit.webp'
     ],
     link: 'https://github.com/UsmanNizamani/overthewire-bandit'
   }
